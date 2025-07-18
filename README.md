@@ -1,96 +1,57 @@
 
-<!-- index.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Divesh kumar | web Developer Portfolio</title>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: 'Poppins', sans-serif;
-    }
-    body {
-      background: linear-gradient(135deg, #1d1d1d, #2d2d2d);
-      color: #fff;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      padding: 50px 20px;
-    }
-    h1 {
-      font-size: 3rem;
-      color: #00ffcc;
-      margin-bottom: 10px;
-    }
-    h2 {
-      font-size: 1.5rem;
-      color: #bbb;
-      margin-bottom: 30px;
-    }
-    .buttons a {
-      text-decoration: none;
-      color: #fff;
-      background: #00ffcc;
-      padding: 10px 20px;
-      margin: 10px;
-      border-radius: 8px;
-      transition: 0.3s ease;
-    }
-    .buttons a:hover {
-      background: #00ccaa;
-    }
-    .card {
-      background: #2a2a2a;
-      padding: 20px;
-      margin: 20px;
-      border-radius: 12px;
-      max-width: 600px;
-      box-shadow: 0 4px 10px rgba(0, 255, 204, 0.2);
-    }
-    .card h3 {
-      color: #00ffcc;
-      margin-bottom: 10px;
-    }
-    .footer {
-      margin-top: 50px;
-      font-size: 0.9rem;
-      color: #888;
-    }
-  </style>
+  <title>Divesh Kumar | Web Developer</title>
 </head>
 <body>
 
-  <h1>Hi, I'm Divesh kumar 👋</h1>
-  <h2>Web Developer | Open Source Enthusiast</h2>
+  <h1 align="center">👋 Hi, I'm <span style="color: teal;">Divesh Kumar</span></h1>
 
-  <div class="buttons">
-    <a href="https://github.com/diveshkumar2233" target="_blank">GitHub</a>
-    <a href="linkedin.com/in/divesh-kumar-109b6b263" target="_blank">LinkedIn</a>
-    <a href="diveshkumar4464@gmail.com">Email Me</a>
-  </div>
+  <h3 align="center">💻 Web Developer | 🎯 Problem Solver | 🌐 Open Source Enthusiast</h3>
 
-  <div class="card">
-    <h3>🔧 Skills</h3>
-    <p>HTML, CSS, JavaScript, React, Git, MongoDB</p>
-  </div>
+  <p align="center">
+    📍 India &nbsp;|&nbsp;
+        📧 <a href="diveshkumar4464@gmail.com">diveshkumar4464@gmail.com</a> &nbsp;|&nbsp;
+    🌐 <a href="https://github.com/diveshkumar2233"" target="_blank">GitHub</a>
+  </p>
 
-  <div class="card">
-    <h3>📁 Featured Projects</h3>
-    <ul>
-      <li><a href="https://github.com/yourusername/project1" target="_blank">💡 Project One</a></li>
-      <li><a href="https://github.com/yourusername/project2" target="_blank">🚀 Project Two</a></li>
-    </ul>
-  </div>
+  <hr>
 
-  <div class="footer">
-    &copy; 2025 Divesh kumar. Made with 💙 using HTML/CSS/JS.
-  </div>
+  <h2>🚀 About Me</h2>
+  <p>
+    I'm a passionate web developer who loves building responsive and interactive websites using modern tools. I enjoy solving real-world problems through code and contributing to open-source projects.
+  </p>
+
+  <h2>🛠️ Skills</h2>
+  <ul>
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>JavaScript (ES6+)</li>
+    <li>Git & GitHub</li>
+    <li>React.js (basic)</li>
+  </ul>
+
+  <h2>📌 Projects</h2>
+  <ul>
+    <li><a href="https://diveshkumar2233.github.io/todo-list/
+" target="_blank">💡 Project 1</a> - A simple to-do app with local storage.</li>
+    <li><a href="https://github.com/yourusername/project2" target="_blank">📊 Project 2</a> - A weather dashboard using API integration.</li>
+  </ul>
+
+  <h2>📫 Connect with Me</h2>
+  <ul>
+    <li><a href="https://linkedin.com/in/yourlinkedin" target="_blank">LinkedIn</a></li>
+    <li><a href="diveshkumar4464@gmail.com">Email</a></li>
+    <li><a href="https://github.com/diveshkumar2233" target="_blank">GitHub</a></li>
+  </ul>
+
+  <hr>
+
+  <p align="center">✨ Thanks for visiting my profile! ✨</p>
 
 </body>
 </html>
+
 
